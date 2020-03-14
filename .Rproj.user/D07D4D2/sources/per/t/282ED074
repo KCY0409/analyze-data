@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584180715359.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "318098043",
+    "id" : "282ED074",
+    "lastKnownWriteTime" : 1584182765,
+    "last_content_update" : 1584182765834,
+    "path" : "C:/Users/Kim Chang Yong/Desktop/R/혼자 해보는 데이터 분석/rsciprt/1_movies.R",
+    "project_path" : "rsciprt/1_movies.R",
+    "properties" : {
+        "cursorPosition" : "74,31",
+        "scrollLine" : "60"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
